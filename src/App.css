@@ -55,7 +55,7 @@ video {
 }
 .weather__desc {
   margin-top: 10px;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 700;
   color: #f7f7f7;
 }
@@ -113,6 +113,7 @@ video {
   height: 200px;
 }
 .weather__title {
+  margin-top: 20px;
   font-size: 30px;
   font-weight: 700;
   color: #f7f7f7;
